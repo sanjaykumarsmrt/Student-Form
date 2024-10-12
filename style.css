@@ -35,3 +35,14 @@
     }
 
 }
+
+@media (max-width: 525px) and (min-width: 280px) {
+    body {
+        background-color:  #f0f0f0;
+    }
+    .container {
+        border: none;
+        border-radius: 0px;
+        box-shadow: none;
+    }
+}
