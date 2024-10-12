@@ -28,3 +28,10 @@
     background-color: #ff0000;
     color: white;
 }
+
+@media (max-width: 920px) and (min-width: 280px) {
+    .container {
+        width: 90%;
+    }
+
+}
